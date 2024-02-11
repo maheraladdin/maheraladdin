@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Maher Aladdin Mansour, a passionate Full-Stack
 - and more! Check out my repositories below for more projects.
 
 ### 📫 Let's Connect!
-- LinkedIn: <a href="www.linkedin.com/in/maher-mansour-726a35200" target="_blank">Maher Aladdin Mansour</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/maher-mansour-726a35200" target="_blank">Maher Aladdin Mansour</a>
 - Email: [maher.aladdin.mansour@gmail.com](mailto:maher.aladdin.mansour@gmail.com)
 
 Let's collaborate, innovate, and create awesome projects together! Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities.
