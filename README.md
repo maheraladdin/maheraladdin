@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | Cloud Enthusiast**
 
-[maher.aladdin.mansour@gmail.com](mailto:maher.aladdin.mansour@gmail.com) | [Portfolio](https://maher-aladdin.me) | [LinkedIn](https://linkedin.com/in/maher-aladdin-mansour) | +2001116491564 (telegram & whatsapp)
+[maher.aladdin.mansour@gmail.com](mailto:maher.aladdin.mansour@gmail.com) | [Portfolio](https://maher-aladdin.me) | [LinkedIn](https://linkedin.com/in/maher-aladdin-mansour) | [Telegram](https://t.me/maheraladdin) | [Whatsapp](https://wa.me/+2001116491564)
 
 ---
 
