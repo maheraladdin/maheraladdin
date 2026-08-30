@@ -1,6 +1,6 @@
 # **Maher A. Mansour**
 
-**Founding & Product Engineer | Software Engineer | Full-Stack Software Engineer**
+**Founding & Product Engineer | Software Engineer | Full-Stack Developer**
 
 [Mansoura, Dakahlia, Egypt](https://www.google.com/maps/search/Mansoura,+Dakahlia,+Egypt) | [maher.aladdin.mansour@gmail.com](mailto:maher.aladdin.mansour@gmail.com) |  [\+201116491564](tel:+201116491564) (WhatsApp/Telegram)
 
