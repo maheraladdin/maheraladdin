@@ -128,8 +128,12 @@
 ## 📊 GitHub & Competitive Programming Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maheraladdin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Maher's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheraladdin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/maheraladdin">
+    <img height="185" src="./profile/stats.svg" alt="Maher's GitHub Stats" />
+  </a>
+  <a href="https://github.com/maheraladdin">
+    <img height="185" src="./profile/top-langs.svg" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
