@@ -137,5 +137,7 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/maheraladdin?theme=unicorn&font=JetBrains%20Mono&ext=heatmap" alt="Maher's LeetCode Stats" />
+  <a href="https://leetcode.com/u/maheraladdin/">
+    <img width="500" src="https://leetcard.jacoblin.cool/maheraladdin?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="Maher's LeetCode Stats" />
+  </a>
 </div>
